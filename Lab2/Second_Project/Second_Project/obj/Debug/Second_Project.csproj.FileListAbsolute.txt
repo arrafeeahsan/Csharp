@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab2\Second_Project\Second_Project\bin\Debug\Second_Project.exe.config
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab2\Second_Project\Second_Project\bin\Debug\Second_Project.exe
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab2\Second_Project\Second_Project\bin\Debug\Second_Project.pdb
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab2\Second_Project\Second_Project\obj\Debug\Second_Project.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab2\Second_Project\Second_Project\obj\Debug\Second_Project.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab2\Second_Project\Second_Project\obj\Debug\Second_Project.exe
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab2\Second_Project\Second_Project\obj\Debug\Second_Project.pdb
