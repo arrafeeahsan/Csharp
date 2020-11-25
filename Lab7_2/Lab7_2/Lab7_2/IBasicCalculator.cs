@@ -8,5 +8,9 @@ namespace Lab7_2
 {
     interface IBasicCalculator
     {
+        void Sum(int x, int y);
+        void Sub(int x, int y);
+        void Multiplication(int x, int y);
+        void Division(int x, int y);
     }
 }

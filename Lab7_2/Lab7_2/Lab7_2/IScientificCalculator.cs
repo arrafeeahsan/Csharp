@@ -8,5 +8,8 @@ namespace Lab7_2
 {
     interface IScientificCalculator
     {
+        void Power(double x, double y);
+        void Log(double x);
+        
     }
 }

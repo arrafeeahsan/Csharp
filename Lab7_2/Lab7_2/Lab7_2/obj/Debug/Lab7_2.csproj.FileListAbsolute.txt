@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_2\Lab7_2\bin\Debug\Lab7_2.exe.config
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_2\Lab7_2\bin\Debug\Lab7_2.exe
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_2\Lab7_2\bin\Debug\Lab7_2.pdb
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_2\Lab7_2\obj\Debug\Lab7_2.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_2\Lab7_2\obj\Debug\Lab7_2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_2\Lab7_2\obj\Debug\Lab7_2.exe
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_2\Lab7_2\obj\Debug\Lab7_2.pdb
