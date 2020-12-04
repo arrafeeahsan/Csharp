@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_3\Lab7_3\Lab7_3\bin\Debug\netcoreapp3.1\Lab7_3.exe
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_3\Lab7_3\Lab7_3\bin\Debug\netcoreapp3.1\Lab7_3.deps.json
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_3\Lab7_3\Lab7_3\bin\Debug\netcoreapp3.1\Lab7_3.runtimeconfig.json
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_3\Lab7_3\Lab7_3\bin\Debug\netcoreapp3.1\Lab7_3.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_3\Lab7_3\Lab7_3\bin\Debug\netcoreapp3.1\Lab7_3.dll
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_3\Lab7_3\Lab7_3\bin\Debug\netcoreapp3.1\Lab7_3.pdb
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_3\Lab7_3\Lab7_3\obj\Debug\netcoreapp3.1\Lab7_3.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_3\Lab7_3\Lab7_3\obj\Debug\netcoreapp3.1\Lab7_3.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_3\Lab7_3\Lab7_3\obj\Debug\netcoreapp3.1\Lab7_3.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_3\Lab7_3\Lab7_3\obj\Debug\netcoreapp3.1\Lab7_3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_3\Lab7_3\Lab7_3\obj\Debug\netcoreapp3.1\Lab7_3.dll
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_3\Lab7_3\Lab7_3\obj\Debug\netcoreapp3.1\Lab7_3.pdb
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab7_2\Lab7_3\Lab7_3\Lab7_3\obj\Debug\netcoreapp3.1\Lab7_3.genruntimeconfig.cache
