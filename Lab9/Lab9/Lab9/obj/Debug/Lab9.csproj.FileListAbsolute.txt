@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab9\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab9\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab9\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab9\Lab9\Lab9\obj\Debug\Lab9.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab9\Lab9\Lab9\obj\Debug\Lab9.Form1.resources
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab9\Lab9\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab9\Lab9\Lab9\obj\Debug\Lab9.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab9\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab9\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab9\Lab9\Lab9\obj\Debug\Lab9.pdb
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab9\Lab9\Lab9\obj\Debug\Lab9.Dashboard.resources

@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.Dashboard.resources
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.Form1.resources
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.Properties.Resources.resources
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\LabTasks\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
