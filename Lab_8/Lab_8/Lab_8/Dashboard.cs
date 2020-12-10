@@ -16,5 +16,11 @@ namespace Lab_8
         {
             InitializeComponent();
         }
+
+        private void AddUserClick(object sender, EventArgs e)
+        {
+            
+            new Registration().Show();
+        }
     }
 }

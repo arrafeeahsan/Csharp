@@ -44,13 +44,13 @@ namespace Lab_8
             }
             if(!hasError)
             {
-                if(userName.Equals("Arrafi") && password.Equals("arrafi"))
+                if(userName.Equals("18-37958-2") && password.Equals("arrafi"))
                 {
                     User u = new User();
                     u.Name = userName;
                     u.Password = password;
                     new Dashboard(u).Show();
-                    MessageBox.Show("Valid");
+                    //MessageBox.Show("Valid");
                 }
                 else 
                 {
